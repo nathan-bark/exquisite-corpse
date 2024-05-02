@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "exquisite-corpse/1.0.0": {
+        "runtime": {
+          "exquisite-corpse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exquisite-corpse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

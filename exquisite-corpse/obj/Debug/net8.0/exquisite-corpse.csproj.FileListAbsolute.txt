@@ -1,0 +1,14 @@
+/Users/nathanbark/Desktop/Projects/exquisite-corpse/exquisite-corpse/bin/Debug/net8.0/exquisite-corpse
+/Users/nathanbark/Desktop/Projects/exquisite-corpse/exquisite-corpse/bin/Debug/net8.0/exquisite-corpse.deps.json
+/Users/nathanbark/Desktop/Projects/exquisite-corpse/exquisite-corpse/bin/Debug/net8.0/exquisite-corpse.runtimeconfig.json
+/Users/nathanbark/Desktop/Projects/exquisite-corpse/exquisite-corpse/bin/Debug/net8.0/exquisite-corpse.dll
+/Users/nathanbark/Desktop/Projects/exquisite-corpse/exquisite-corpse/bin/Debug/net8.0/exquisite-corpse.pdb
+/Users/nathanbark/Desktop/Projects/exquisite-corpse/exquisite-corpse/obj/Debug/net8.0/exquisite-corpse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathanbark/Desktop/Projects/exquisite-corpse/exquisite-corpse/obj/Debug/net8.0/exquisite-corpse.AssemblyInfoInputs.cache
+/Users/nathanbark/Desktop/Projects/exquisite-corpse/exquisite-corpse/obj/Debug/net8.0/exquisite-corpse.AssemblyInfo.cs
+/Users/nathanbark/Desktop/Projects/exquisite-corpse/exquisite-corpse/obj/Debug/net8.0/exquisite-corpse.csproj.CoreCompileInputs.cache
+/Users/nathanbark/Desktop/Projects/exquisite-corpse/exquisite-corpse/obj/Debug/net8.0/exquisite-corpse.dll
+/Users/nathanbark/Desktop/Projects/exquisite-corpse/exquisite-corpse/obj/Debug/net8.0/refint/exquisite-corpse.dll
+/Users/nathanbark/Desktop/Projects/exquisite-corpse/exquisite-corpse/obj/Debug/net8.0/exquisite-corpse.pdb
+/Users/nathanbark/Desktop/Projects/exquisite-corpse/exquisite-corpse/obj/Debug/net8.0/exquisite-corpse.genruntimeconfig.cache
+/Users/nathanbark/Desktop/Projects/exquisite-corpse/exquisite-corpse/obj/Debug/net8.0/ref/exquisite-corpse.dll
